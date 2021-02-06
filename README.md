@@ -7,7 +7,7 @@
 
 ## Activity_2_Folder_Structure
 ### git clone using ssh keys, mkdir code/data/reference, touch .gitkeep(let github to recognize the folder structure and keep the files even though it's empty)
-### git status, git add .(add all untracked changes), git add code(add untracked folder code)\
+### git status, git add .(add all untracked changes), git add code(add untracked folder code)
 ### git commit -m "Text"
 ### git push
 - code/data/reference
